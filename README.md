@@ -3,11 +3,7 @@
 Developed a responsive AI-powered chatbot using React and external APIs for handling user queries efficiently. Designed intuitive UI with CSS and implemented real-time data flow for dynamic interaction. 
 Demonstrated automation, user-centric design and scallable architecture.
 
-<div align="center">
-  <video width="320" height="240" controls>
-  <source src="https://github.com/MadhuraS422/Maximus/blob/afc17f3327783975330e17bf3fae9f07fca1bc0d/Maximus%20(1).mp4" type="video/mp4">
-</video>
-</div>
+https://github.com/MadhuraS422/Maximus/blob/afc17f3327783975330e17bf3fae9f07fca1bc0d/Maximus%20(1).mp4
 
 <h3>Tools USed</h3>
 

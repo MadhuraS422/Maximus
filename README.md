@@ -4,7 +4,7 @@ Developed a responsive AI-powered chatbot using React and external APIs for hand
 Demonstrated automation, user-centric design and scallable architecture.
 
 <div align="center">
-  <img height="450" width="450" src="https://github.com/MadhuraS422/Maximus/blob/afc17f3327783975330e17bf3fae9f07fca1bc0d/Maximus%20(1).mp4"  />
+  <video height="450" width="450" src="https://github.com/MadhuraS422/Maximus/blob/afc17f3327783975330e17bf3fae9f07fca1bc0d/Maximus%20(1).mp4"  />
 </div>
 
 <h3>Tools USed</h3>
